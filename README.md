@@ -18,5 +18,8 @@ Controle de 9 LEDS via télécommande IR + mode chenille et alternance sur Ardui
 ## PHOTO DU MONTAGE
   ![Montage Arduino IR 9 LEDs](52522.jpg)
   *Arduino UNO + 9 LEDs RYB + Récepteur IR VS1838B + Télécommande 15 touche*
+## DEMONSTRATION VIDEO
+[![Démonstration IR 9 LEDs](https://img.youtube.com/vi/-Va8Rz1qJgo?si=HeDAVOcgiuIKM9_M.jpg)](https://youtu.be/-Va8Rz1qJgo?si=HeDAVOcgiuIKM9_M)
+[Voir la démo sur youtube](https://youtu.be/-Va8Rz1qJgo?si=HeDAVOcgiuIKM9_M)
 ## AUTEUR
   LUC977
